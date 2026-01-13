@@ -1,14 +1,14 @@
 # calculate simple interest
-"""principal = float(input("Enter the principal amount: "))
+principal = float(input("Enter the principal amount: "))
 rate = float(input("Enter the annual interest rate (in %): "))
 time = float(input("Enter the time (in years): "))
 
 simple_interest = (principal * rate * time) / 100
 
 print(f"The simple interest is: {simple_interest}")
-"""
+
 #maximum no.
-"""
+
 a=input("enter A:--")
 b=input("enter B:--")
 c=input("enter C:--")
@@ -38,7 +38,7 @@ print("the first character is=",text[0])
 #last character print
 text=input("enter string:-")
 print("the first character is=",text[-1])
-"""
+
 # add three numbers
 a=10
 b=20
